@@ -1,0 +1,1 @@
+# solcre-cordova-libary
